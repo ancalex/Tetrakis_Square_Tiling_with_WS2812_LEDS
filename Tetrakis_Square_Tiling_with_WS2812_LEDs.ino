@@ -1,4 +1,4 @@
-//#define FASTLED_INTERRUPT_RETRY_COUNT 0
+#define FASTLED_INTERRUPT_RETRY_COUNT 0
 #include "FastLED.h"
 #include <ESP8266TrueRandom.h>
 #include "Palettes.h"
